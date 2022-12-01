@@ -1,0 +1,60 @@
+.col{
+    width: 181px;
+    height: 515px;
+    border: black solid 2px;
+    position: absolute;
+    top: 100px;
+}
+.col-1{
+    background-color: black;
+    left: 338px;
+}
+.col-2{
+    background-color: rgb(3, 5, 4);
+    left: 666px;
+}
+.col-3{
+    background-color: rgb(12, 12, 11);
+    left: 978px;
+}
+.col-4{
+    background-color: rgb(5, 5, 5);
+    left: 986px;
+}
+.col-4{
+    background-color: black;
+    left: 1294px;
+}
+.col-5{
+    background-color: black;
+
+}
+h3{
+    text-align: center;
+    color: green;
+}
+img{
+    width: 100%;
+    height: 196px;
+}
+p{
+    color: aliceblue;
+    font-size: medium;
+    width: 100%;
+}
+input{
+    text-align: center;
+    background-color: rgb(13, 13, 13);
+    border: white solid 2px;
+    
+}
+::placeholder{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
